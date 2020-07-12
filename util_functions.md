@@ -1,7 +1,7 @@
 ## Client
 ### Util.Tick()
 A wrapper to simplify the following:
-```lua
+```
 Citizen.CreateThread(function()
   while true do
     Citizen.Wait(0)
